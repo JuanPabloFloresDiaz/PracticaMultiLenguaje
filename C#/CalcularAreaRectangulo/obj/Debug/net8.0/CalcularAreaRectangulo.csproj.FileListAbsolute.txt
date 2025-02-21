@@ -1,0 +1,15 @@
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\bin\Debug\net8.0\CalcularAreaRectangulo.exe
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\bin\Debug\net8.0\CalcularAreaRectangulo.deps.json
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\bin\Debug\net8.0\CalcularAreaRectangulo.runtimeconfig.json
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\bin\Debug\net8.0\CalcularAreaRectangulo.dll
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\bin\Debug\net8.0\CalcularAreaRectangulo.pdb
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.AssemblyInfoInputs.cache
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.AssemblyInfo.cs
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.sourcelink.json
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.dll
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\obj\Debug\net8.0\refint\CalcularAreaRectangulo.dll
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.pdb
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.genruntimeconfig.cache
+C:\Users\pablo\Desktop\Programación\Lógica de programación\PracticaMultiLenguaje\C#\CalcularAreaRectangulo\obj\Debug\net8.0\ref\CalcularAreaRectangulo.dll
